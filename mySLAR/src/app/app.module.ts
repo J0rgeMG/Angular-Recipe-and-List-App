@@ -16,7 +16,8 @@ import { RecipeDetailComponent } from './header/recipe-list/recipe-detail/recipe
     ShoppingListComponent,
     ShoppingListEditComponent,
     RecipeListComponent,
-    RecipeItemComponent
+    RecipeItemComponent,
+    RecipeDetailComponent
   ],
   imports: [
     BrowserModule
